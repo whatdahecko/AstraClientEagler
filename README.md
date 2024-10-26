@@ -1,1 +1,1 @@
-#koolindiskoolig.github.io
+koolindiskool.github.io
