@@ -1,2 +1,1 @@
-# AstraClientEagler
-All Eaglercraft releases for Astra Client
+#koolindiskoolig.github.io
