@@ -1,1 +1,1 @@
-koolindiskool.github.io
+https://whatdahecko.github.io/koolindiskool.github.io/javascript/
